@@ -1,13 +1,13 @@
 # design-patterns-in-java
 
 # Creational Patterns
-
-Abstract Factory: Creates an instance of several families of classes
-Builder: Separates object construction from its representation
-Factory Method: Creates an instance of several derived classes
-Prototype: A fully initialized instance to be copied or cloned
-Singleton: A class in which only a single instance can exist
-
+<ul>
+  <li>Abstract Factory: Creates an instance of several families of classes</li>
+  <li>Builder: Separates object construction from its representation</li>
+  <li>Factory Method: Creates an instance of several derived classes</li>
+  <li>Prototype: A fully initialized instance to be copied or cloned</li>
+  <li>Singleton: A class in which only a single instance can exist</li>
+</ul>
 
 Note: The best way to remember Creational Pattern is by remembering ABFPS (Abraham Became First President of States).
 
