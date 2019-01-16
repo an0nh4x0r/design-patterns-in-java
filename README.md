@@ -9,7 +9,7 @@
   <li>Singleton</li>
 </ul>
 
-Note: The best way to remember Creational Pattern is by remembering ABFPS (Abraham Became First President of States).
+<strong>Note: The best way to remember Creational Pattern is by remembering ABFPS (Abraham Became First President of States).</strong>
 
 
 # Structural Patterns
@@ -23,7 +23,8 @@ Note: The best way to remember Creational Pattern is by remembering ABFPS (Abrah
   <li>Flyweight</li>
   <li>Proxy</li>
 </ul>
-Note: To remember Structural Pattern best is (ABCDFFP)
+
+<strong>Note: To remember Structural Pattern best is (ABCDFFP)</strong>
 
 # Behavioral Patterns
 <ul>
@@ -39,4 +40,5 @@ Note: To remember Structural Pattern best is (ABCDFFP)
   <li>Template Method</li>
   <li>Visitor</li>
 </ul>
-Note: Just remember Behavioral Pattern Music....... 2 MICS On TV (MMIICCSSOTV).
+
+<strong>Note: Just remember Behavioral Pattern Music....... 2 MICS On TV (MMIICCSSOTV).</strong>
