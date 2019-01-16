@@ -19,7 +19,7 @@ Note: The best way to remember Creational Pattern is by remembering ABFPS (Abrah
   <li>Bridge</li>
   <li>Composite</li>
   <li>Decorator</li>
-  <li>Façade</li>
+  <li>Facade</li>
   <li>Flyweight</li>
   <li>Proxy</li>
 </ul>
