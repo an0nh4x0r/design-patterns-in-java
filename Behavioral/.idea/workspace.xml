@@ -1,59 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94cf47fd-a1a2-4427-9ee8-6f33466d142b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/in/swapnilsingh/chainofresponsibility/CEO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/in/swapnilsingh/chainofresponsibility/ChainOfResponsibilityDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/in/swapnilsingh/chainofresponsibility/ChainOfResponsibilityEverydayDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/in/swapnilsingh/chainofresponsibility/Director.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/in/swapnilsingh/chainofresponsibility/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/in/swapnilsingh/chainofresponsibility/Request.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/in/swapnilsingh/chainofresponsibility/RequestType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/in/swapnilsingh/chainofresponsibility/VP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Structural/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Structural/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Structural/src/main/java/in/swapnilsingh/adapter/AdapterDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Structural/src/main/java/in/swapnilsingh/adapter/AdapterEverydayDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Structural/src/main/java/in/swapnilsingh/adapter/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Structural/src/main/java/in/swapnilsingh/adapter/EmployeeAdapterCSV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Structural/src/main/java/in/swapnilsingh/adapter/EmployeeAdapterLdap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Structural/src/main/java/in/swapnilsingh/adapter/EmployeeCSV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Structural/src/main/java/in/swapnilsingh/adapter/EmployeeClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Structural/src/main/java/in/swapnilsingh/adapter/EmployeeDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Structural/src/main/java/in/swapnilsingh/adapter/EmployeeLdap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Structural/src/main/java/in/swapnilsingh/bridge/BridgeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Structural/src/main/java/in/swapnilsingh/bridge/Detail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Structural/src/main/java/in/swapnilsingh/bridge/Formatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Structural/src/main/java/in/swapnilsingh/bridge/HtmlFormatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Structural/src/main/java/in/swapnilsingh/bridge/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Structural/src/main/java/in/swapnilsingh/bridge/MoviePrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Structural/src/main/java/in/swapnilsingh/bridge/PrintFormatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Structural/src/main/java/in/swapnilsingh/bridge/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Structural/src/main/java/in/swapnilsingh/bridge/shape1/BlueCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Structural/src/main/java/in/swapnilsingh/bridge/shape1/BlueSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Structural/src/main/java/in/swapnilsingh/bridge/shape1/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Structural/src/main/java/in/swapnilsingh/bridge/shape1/GreenSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Structural/src/main/java/in/swapnilsingh/bridge/shape1/RedCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Structural/src/main/java/in/swapnilsingh/bridge/shape1/RedSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Structural/src/main/java/in/swapnilsingh/bridge/shape1/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Structural/src/main/java/in/swapnilsingh/bridge/shape1/Shape1BridgeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Structural/src/main/java/in/swapnilsingh/bridge/shape1/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Structural/src/main/java/in/swapnilsingh/bridge/shape2/Blue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Structural/src/main/java/in/swapnilsingh/bridge/shape2/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Structural/src/main/java/in/swapnilsingh/bridge/shape2/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Structural/src/main/java/in/swapnilsingh/bridge/shape2/Green.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Structural/src/main/java/in/swapnilsingh/bridge/shape2/Red.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Structural/src/main/java/in/swapnilsingh/bridge/shape2/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Structural/src/main/java/in/swapnilsingh/bridge/shape2/Shape2BridgeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Structural/src/main/java/in/swapnilsingh/bridge/shape2/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Structural/src/main/java/in/swapnilsingh/facade/FacadeEverydayDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Structural/src/main/java/in/swapnilsingh/proxy/SecurityProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Structural/src/main/java/in/swapnilsingh/proxy/TwitterDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Structural/src/main/java/in/swapnilsingh/proxy/TwitterService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Structural/src/main/java/in/swapnilsingh/proxy/TwitterServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Structural/src/main/java/in/swapnilsingh/proxy/TwitterServiceStub.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Creational/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Creational/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="94cf47fd-a1a2-4427-9ee8-6f33466d142b" name="Default Changelist" comment="Structual and behavioral patterns">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/swapnilsingh.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/swapnilsingh/iterator/BikeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/swapnilsingh/iterator/IteratorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/swapnilsingh/iterator/IteratorEverydayDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/swapnilsingh/template/OrderTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/swapnilsingh/template/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/swapnilsingh/template/TemplateDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/swapnilsingh/template/TemplateEverydayDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/swapnilsingh/template/WebOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -73,108 +32,78 @@
     <session id="1620833497">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gradle" value="1" />
-          <entry key="java" value="13" />
+          <entry key="java" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Groovy" value="1" />
-          <entry key="JAVA" value="13" />
+          <entry key="JAVA" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1379" />
+          <entry key="dummy" value="1" />
+          <entry key="java" value="3822" />
+          <entry key="txt" value="36" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1379" />
+          <entry key="JAVA" value="3822" />
+          <entry key="PLAIN_TEXT" value="37" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/in/swapnilsingh/template/TemplateDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/in/swapnilsingh/chainofresponsibility/ChainOfResponsibilityEverydayDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/in/swapnilsingh/template/WebOrder.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="459">
               <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#386#387#0" expanded="true" />
+                <element signature="e#422#423#0" expanded="true" />
+                <element signature="e#505#506#0" expanded="true" />
+                <element signature="e#541#542#0" expanded="true" />
+                <element signature="e#617#618#0" expanded="true" />
+                <element signature="e#655#656#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/in/swapnilsingh/chainofresponsibility/ChainOfResponsibilityDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/in/swapnilsingh/chainofresponsibility/Request.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/in/swapnilsingh/template/OrderTemplate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+            <state relative-caret-position="405">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
               <folding>
-                <element signature="e#315#316#0" expanded="true" />
-                <element signature="e#349#350#0" expanded="true" />
-                <element signature="e#382#383#0" expanded="true" />
-                <element signature="e#411#412#0" expanded="true" />
+                <element signature="e#250#251#0" expanded="true" />
+                <element signature="e#286#287#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/in/swapnilsingh/chainofresponsibility/Director.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/in/swapnilsingh/chainofresponsibility/VP.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/in/swapnilsingh/chainofresponsibility/CEO.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-              <folding>
-                <element signature="e#144#145#0" expanded="true" />
-                <element signature="e#180#181#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/in/swapnilsingh/chainofresponsibility/RequestType.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -371,7 +300,9 @@
     <option name="modificationStamps">
       <map>
         <entry key="$PROJECT_DIR$" value="6190595277000" />
+        <entry key="$PROJECT_DIR$/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/build.gradle" value="1279346818" />
+        <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="2007532874" />
         <entry key="$PROJECT_DIR$/settings.gradle" value="3701320204" />
       </map>
     </option>
@@ -498,6 +429,14 @@
         <option value="$PROJECT_DIR$/src/main/java/in/swapnilsingh/chainofresponsibility/VP.java" />
         <option value="$PROJECT_DIR$/src/main/java/in/swapnilsingh/chainofresponsibility/CEO.java" />
         <option value="$PROJECT_DIR$/src/main/java/in/swapnilsingh/chainofresponsibility/ChainOfResponsibilityDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/in/swapnilsingh/iterator/IteratorEverydayDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/in/swapnilsingh/iterator/BikeRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/in/swapnilsingh/iterator/IteratorDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/in/swapnilsingh/template/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/in/swapnilsingh/template/TemplateEverydayDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/in/swapnilsingh/template/OrderTemplate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/in/swapnilsingh/template/WebOrder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/in/swapnilsingh/template/TemplateDemo.java" />
       </list>
     </option>
   </component>
@@ -523,7 +462,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -549,20 +488,37 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Behavioral" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Behavioral" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="swapnilsingh" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Behavioral" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Behavioral" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="swapnilsingh" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547651149375" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548434213039" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -576,7 +532,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ChainOfResponsibilityDemo">
+  <component name="RunManager" selected="Application.TemplateDemo">
     <configuration name="ChainOfResponsibilityDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="in.swapnilsingh.chainofresponsibility.ChainOfResponsibilityDemo" />
       <module name="Behavioral_main" />
@@ -598,6 +554,48 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="in.swapnilsingh.chainofresponsibility.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IteratorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="in.swapnilsingh.iterator.IteratorDemo" />
+      <module name="Behavioral_main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="in.swapnilsingh.iterator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IteratorEverydayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="in.swapnilsingh.iterator.IteratorEverydayDemo" />
+      <module name="Behavioral_main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="in.swapnilsingh.iterator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TemplateDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="in.swapnilsingh.template.TemplateDemo" />
+      <module name="Behavioral_main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="in.swapnilsingh.template.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -628,9 +626,15 @@
     <list>
       <item itemvalue="Application.ChainOfResponsibilityEverydayDemo" />
       <item itemvalue="Application.ChainOfResponsibilityDemo" />
+      <item itemvalue="Application.IteratorEverydayDemo" />
+      <item itemvalue="Application.IteratorDemo" />
+      <item itemvalue="Application.TemplateDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TemplateDemo" />
+        <item itemvalue="Application.IteratorDemo" />
+        <item itemvalue="Application.IteratorEverydayDemo" />
         <item itemvalue="Application.ChainOfResponsibilityDemo" />
         <item itemvalue="Application.ChainOfResponsibilityEverydayDemo" />
       </list>
@@ -646,46 +650,50 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547648812427</updated>
-      <workItem from="1547648814747" duration="2113000" />
+      <workItem from="1547648814747" duration="4329000" />
+      <workItem from="1547901488166" duration="767000" />
+      <workItem from="1548429750783" duration="907000" />
+      <workItem from="1548432230961" duration="1629000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2113000" />
+    <option name="totallyTimeSpent" value="7632000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Capture Tool" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Build" weight="0.2819277" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.57228917" visible="true" weight="0.26037195" />
+      <window_info id="Structure" order="1" sideWeight="0.42771083" side_tool="true" visible="true" weight="0.26037195" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="right" id="Gradle" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.2819277" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32891566" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Gradle" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -693,6 +701,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Structual and behavioral patterns" />
+    <option name="LAST_COMMIT_MESSAGE" value="Structual and behavioral patterns" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/build.gradle">
@@ -719,10 +731,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/in/swapnilsingh/chainofresponsibility/RequestType.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/in/swapnilsingh/chainofresponsibility/Handler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="34">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding>
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -739,32 +755,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/in/swapnilsingh/chainofresponsibility/Handler.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/in/swapnilsingh/chainofresponsibility/VP.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-          <folding>
-            <element signature="e#160#161#0" expanded="true" />
-            <element signature="e#200#201#0" expanded="true" />
-          </folding>
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-59">
+          <caret line="53" column="17" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/in/swapnilsingh/chainofresponsibility/Director.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/in/swapnilsingh/chainofresponsibility/CEO.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/in/swapnilsingh/chainofresponsibility/ChainOfResponsibilityDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#144#145#0" expanded="true" />
-            <element signature="e#180#181#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="85">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -778,17 +793,117 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/in/swapnilsingh/chainofresponsibility/VP.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/in/swapnilsingh/chainofresponsibility/RequestType.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/in/swapnilsingh/chainofresponsibility/ChainOfResponsibilityDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/in/swapnilsingh/iterator/IteratorEverydayDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="493">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/in/swapnilsingh/iterator/IteratorDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/in/swapnilsingh/iterator/BikeRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="746">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="e#797#798#0" expanded="true" />
+            <element signature="e#894#895#0" expanded="true" />
+            <element signature="e#952#953#0" expanded="true" />
+            <element signature="e#1012#1013#0" expanded="true" />
+            <element signature="e#1070#1071#0" expanded="true" />
+            <element signature="e#1143#1144#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/in/swapnilsingh/chainofresponsibility/CEO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/in/swapnilsingh/template/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="678">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+          <folding>
+            <element signature="e#161#162#0" expanded="true" />
+            <element signature="e#187#188#0" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+            <element signature="e#382#383#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
+            <element signature="e#508#509#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/in/swapnilsingh/template/TemplateEverydayDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/in/swapnilsingh/template/WebOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#505#506#0" expanded="true" />
+            <element signature="e#541#542#0" expanded="true" />
+            <element signature="e#617#618#0" expanded="true" />
+            <element signature="e#655#656#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/in/swapnilsingh/template/OrderTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/in/swapnilsingh/template/TemplateDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
         </state>
       </provider>
     </entry>
